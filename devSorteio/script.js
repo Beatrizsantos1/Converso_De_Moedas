@@ -1,4 +1,4 @@
-alert("O NUMERO SORTEADO APARECERÁ DEBAIXO DO BOTÃO 'SORTEAR' ");
+alert("O NUMERO SORTEADO APARECERÁ DE BAIXO DO BOTÃO 'SORTEAR' ");
 const butao = document.querySelector("#button");
 
 function buttons() {
